@@ -28,9 +28,7 @@ GREESHMA CHOWDARY PUTTAGUNTA (10392770)
 
 1.Environment set setup (installation of packages / libraries)
 
-2.Data Preprocessing (Data cleaning ,Creating different tabs,Working with Rshiny)
-
-3.Interactive Choropleth Map to show locations affected by coral bleeching 
+2.Interactive Choropleth Map to show locations affected by coral bleeching 
 
 
 Hanish Vasireddy (10402594)
@@ -38,7 +36,9 @@ Hanish Vasireddy (10402594)
 
 1.DATA FINDING, DATA UNDERSTANDING
 
-2.working on Dash board 
+2.Data Preprocessing (Data cleaning ,Creating different tabs,Working with Rshiny)
+
+working on Dash board 
 --------------------------------------------------------------------------------------------------------------------------------------
 **Dataset: ReefBase Dataset: CORAL BLEACHING
 **---------------------------------------------------------------------------------------
