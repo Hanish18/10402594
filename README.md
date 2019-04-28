@@ -54,3 +54,4 @@ with numerous institutions and individuals. ReefBase would like to particularly 
 the contributions made by: National Oceanographic and Atmospheric Administration (NOAA),
 Australian Institute of Marine Science (AIMS), and Great Barrier Reef Marine Park Authority .
 ![aus1](https://user-images.githubusercontent.com/50079843/56867261-8e747400-69e3-11e9-8cbf-b9af7d1d1f92.JPG)
+The graph describes the formation of coral bleeching from years 1997 to 2010 in Australia. It was observed that the count of corals was around 25 in 1997 and then it was reduced in years between 2000 to 2002 and then it again raised and reached to peak in 2006 and then formation of corals has again  decreased. 
